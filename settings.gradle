@@ -1,0 +1,2 @@
+rootProject.name = 'dependencyTest'
+include 'project', 'testProject'
